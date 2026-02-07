@@ -1,0 +1,13 @@
+- [x] Create project directory structure
+- [x] Backend setup: package.json, tsconfig.json, .env
+- [x] Prisma schema and migration
+- [x] Backend code: server.ts, middleware/auth.ts, utils/jwt.ts, routes/auth.ts, routes/tasks.ts
+- [x] Frontend setup: package.json, next.config.js, globals.css
+- [x] Frontend pages: layout.tsx, page.tsx, login/page.tsx, register/page.tsx, dashboard/page.tsx
+- [x] Install dependencies
+- [x] Run Prisma generate and migrate
+- [x] Consolidate into single Next.js project
+- [x] Move backend logic to Next.js API routes
+- [x] Update frontend API calls to relative paths
+- [x] Update home page with task management link
+- [x] Test the consolidated system
